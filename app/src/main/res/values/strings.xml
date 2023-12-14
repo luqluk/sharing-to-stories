@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareInstagram</string>
+    <string name="facebook_app_id">1855218138249865</string>
+    <string name="facebook_client_token">2866bbce0dfaa0e950d4b6d43e92bf6f</string>
+</resources>
